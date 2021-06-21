@@ -39,3 +39,5 @@ for i=1:(2^(l))
 end
 
 sum(exp(N)/z)
+
+hist(S*alfa1
